@@ -1,2 +1,2 @@
 # Primeiro-Site
-Segui o tutorial do canal Rbtech e criei esse site
+Seguindo o tutorial do canal Rbtech criei esse site usando apenas HTML e CSS.
