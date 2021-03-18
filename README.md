@@ -2,7 +2,9 @@
 Site desenvolvido com HMTL e CSS
 
 Tutorial para criação deste site disponível no link: 
+
 https://www.youtube.com/watch?v=iZ1ucWosOww&list=PLInBAd9OZCzydDFvm06EgbPXYylGVcyIL&ab_channel=RBtech
+
 
 Para vizualizar o site clone este repositório 
 
