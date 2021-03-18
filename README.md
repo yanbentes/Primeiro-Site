@@ -7,6 +7,6 @@ Para vizualizar o site clone o repositório
 
 (tutorial: https://docs.github.com/pt/github/creating-cloning-and-archiving-repositories/cloning-a-repository)
 
-Executar arquivo index.html com o navegador de sua máquina
+Executar arquivo index.html com o navegador da sua máquina
 
 
